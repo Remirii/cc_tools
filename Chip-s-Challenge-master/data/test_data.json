@@ -1,0 +1,29 @@
+{
+	"game 1": {
+		"title": "Chip's Challenge",
+		"Platform": [{
+			"launch year": "1989"
+		}, {
+			"name": "Atari Lynx"
+		}],
+		"Year": "1989"
+	},
+	"game 2": {
+		"title": "Chip's Challenge 2",
+		"Platform": [{
+			"launch year": "2003"
+		}, {
+			"name": "Steam"
+		}],
+		"Year": "2015"
+	},
+	"game 3": {
+		"title": "Highly Responsive to Prayers",
+		"Platform": [{
+			"launch year": "1982"
+		}, {
+			"name": "PC-9800 series"
+		}],
+		"Year": "1997"
+	}
+}

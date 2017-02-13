@@ -35,7 +35,7 @@ class GameLibrary:
 
 
 def print_game_library(game_library_data):
-    print("Analyising game library data:")
+    print("Analysing game library data:")
     game_count = 0
     for game in game_library_data.games:
         print("  Game "+str(game_count))
